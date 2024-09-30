@@ -9,7 +9,7 @@
     } else if (input.includes("what is your name")) {
       output = "My name is Tara, I'm a chatbot.";
     } else if (input.includes("what can you do")) {
-      output = "I can chat with you and answer some simple questions.";
+      output = "I can chat with you and answer some questions.";
     } else if (input.includes("tell me a joke")) {
       output = "Why did the chicken go to the seance? To get to the other side.";
     } else if (input.includes("I often feel depressed")) {
